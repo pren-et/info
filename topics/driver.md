@@ -1,4 +1,4 @@
-# Motorenteiber
+# Motorentreiber
 
 ## Schrittmotoren
 * [L6219DSA](http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00001120.pdf)
