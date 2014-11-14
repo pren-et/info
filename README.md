@@ -11,3 +11,5 @@ sonstigen Informationen.
 
 Konkrete Projekte erhalten ein eigenes Repository innerhalb der Organisation
 **pren-et**.
+
+Anfragen zu eigenem Repo bitte an daniw oder ninux. 
