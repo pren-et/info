@@ -17,3 +17,4 @@ Anfragen zu eigenem Repo bitte an daniw oder ninux.
 ## Quicklinks
 * [Themen](./topics/README.md)
 * [Meetings](./meetings/README.md)
+* [Chat](./irc/irc.md)
