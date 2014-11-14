@@ -12,7 +12,8 @@ sonstigen Informationen.
 Konkrete Projekte erhalten ein eigenes Repository innerhalb der Organisation
 **pren-et**.
 
-Anfragen zu eigenem Repo bitte an daniw oder ninux. 
+Anfragen zu eigenem Repo bitte an [daniw](https://github.com/daniw) oder 
+[ninux](https://github.com/ninux). 
 
 ## Quicklinks
 * [Themen](./topics/README.md)
