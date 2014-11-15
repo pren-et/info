@@ -1,5 +1,8 @@
 # IRC - Internet Relay Chat
 
+---
+
+[Zurück](../README.md)
 
 ## Channel Info
 [ninux](https://github.com/ninux) hat einen IRC-Channel auf Freenode
