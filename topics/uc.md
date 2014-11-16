@@ -53,7 +53,15 @@
 * MSP430FR5969
 * 16 Bit
 * 16 MHz
-* 64 kB FRAM
-* 2 kB RAM
+* 64 kB FRAM, 2 kB RAM
 * (http://www.ti.com/ww/en/launchpad/launchpads-msp430-msp-exp430fr5969.html#tabs)
+
+## Raspberry Pi
+* BCM2835
+* ARM1176JZ-F
+* ARM11
+* 32 Bit
+* 700 MHz
+* SD Karte für Flash, 512 MB RAM
+* (http://www.raspberrypi.org/)
 
