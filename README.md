@@ -18,4 +18,5 @@ Anfragen zu eigenem Repo bitte an [daniw](https://github.com/daniw) oder
 ## Quicklinks
 * [Themen](./topics/README.md)
 * [Meetings](./meetings/README.md)
+* [Git und Github](git/git.md)
 * [Chat](./irc/irc.md)
