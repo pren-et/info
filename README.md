@@ -20,3 +20,4 @@ Anfragen zu eigenem Repo bitte an [daniw](https://github.com/daniw) oder
 * [Meetings](./meetings/README.md)
 * [Git und Github](git/git.md)
 * [Chat](./irc/irc.md)
+* [Beteiligte Teams](contributors.md)
