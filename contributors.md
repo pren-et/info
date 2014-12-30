@@ -4,12 +4,12 @@
 
 [Zurück](README.md)
 
-| Team  | Name                  | Github        | Themen        |
-|:------|:----------------------|:--------------|:--------------|
-| T19   | Benno von Büren       | BeniElectro   | DC            |
-| T19   | Jon Buchli            | jonbuc        | DC            |
-| T27   | Daniel Winz           | daniw         | BLDC, Stepper |
-| T32   | Yves Studer           | ystuder       | BLDC          |
-| T33   | Flavio Kreiliger      | Flavinsky     | DC, Stepper   |
-| T38   | Bettina Wyss          | BettyET       | Stepper       |
-| T39   | Ervin Mazlagic        | ninux         | DC            |
+| Team  | Name                  | Github        | Themen        | DC | BLDC | Stepper |
+|:------|:----------------------|:--------------|:--------------|:--:|:----:|:-------:|
+| T19   | Benno von Büren       | BeniElectro   | DC            | X  |      |         |
+| T19   | Jon Buchli            | jonbuc        | DC            | X  |      |         |
+| T27   | Daniel Winz           | daniw         | BLDC, Stepper |    | X    | X       |
+| T32   | Yves Studer           | ystuder       | BLDC          |    | X    |         |
+| T33   | Flavio Kreiliger      | Flavinsky     | DC, Stepper   | X  |      | X       |
+| T38   | Bettina Wyss          | BettyET       | Stepper       |    |      | X       |
+| T39   | Ervin Mazlagic        | ninux         | DC            | X  |      |         |
